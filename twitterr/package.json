@@ -1,0 +1,16 @@
+{
+  "name": "twitter-login",
+  "version": "1.0.0",
+  "description": "a puppeteer script for automated twitter login",
+  "main": "twitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon twitter.js"
+  },
+  "keywords": [],
+  "author": "theeko",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
